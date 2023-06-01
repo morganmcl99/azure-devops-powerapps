@@ -11,7 +11,7 @@ PowerApps tools using the Azure DevOps integration
 <hr>
 
 ### Interation / Sprint Dates Countdown
-![Screenshot showing embedded Azure DevOps current sprint countdown app built in Microsoft PowerApps](https://github.com/morganmcl99/azure-devops-powerapps/Screenshots/blob/287261e24bfd9848980330c6928d25e9b4e2d115/countdown_sprint_release_date_app.jpg?raw=true)
+![Screenshot showing embedded Azure DevOps current sprint countdown app built in Microsoft PowerApps](https://github.com/morganmcl99/azure-devops-powerapps/blob/f28399f51f94d4d85e0316ce54972684c25adb87/Screenshots/countdown_sprint_release_date_app.jpg?raw=true)
 
 <hr>
 
