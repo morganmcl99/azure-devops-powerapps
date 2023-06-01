@@ -16,7 +16,7 @@ PowerApps tools using the Azure DevOps integration
 <hr>
 
 ### Microsoft Office 365 Status Page
-![Screenshot showing embedded Azure DevOps current sprint countdown app built in Microsoft PowerApps](https://github.com/morganmcl99/azure-devops-powerapps/blob/9e7626e8c8349d096ee5e2c356c7ea36d7e68efc/Screenshots/office_365_status_page.jpg?raw=true)
+![Screenshot showing embedded Azure DevOps current sprint countdown app built in Microsoft PowerApps](https://github.com/morganmcl99/azure-devops-powerapps/blob/31d48bdb4873f37a941022ab13b5da23a3d922cd/Screenshots/office_365_status_page.jpg?raw=true)
 
 ### Display Bug Tickets from Azure DevOps
 
